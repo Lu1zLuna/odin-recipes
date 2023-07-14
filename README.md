@@ -10,7 +10,7 @@
     - Cajun Potato Wedges
     - Strawberry Smoothie
 
-- <button name="button" onclick="https://lu1zluna.github.io/odin-recipes/">Click here view the site</button>
+- **[Click here view the site](lu1zluna.github.io/odin-recipes/)**
 
 ## Conclusions:
 
